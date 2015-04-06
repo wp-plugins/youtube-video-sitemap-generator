@@ -22,7 +22,7 @@ None yet
 
 == Installation ==
 
-1. Upload `` to the `/wp-content/plugins/` directory or install via the plugin repository.
+1. Upload `Youtube Video Sitemap generator` to the `/wp-content/plugins/` directory or install via the plugin repository.
 2. Activate the plugin through the "Plugins" menu in WordPress.
 
 
