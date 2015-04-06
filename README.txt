@@ -28,7 +28,7 @@ None yet
 
 == Screenshots ==
 
-1. Pick your post type from the backend administrator interface:
+1. Pick your post type from the back end administrator interface.
 
 == Upgrade Notice ==
 None yet
