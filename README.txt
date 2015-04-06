@@ -35,6 +35,14 @@ None yet
 
 == Changelog ==
 
+= 1.0.5 =
+* Readme.txt edited
+= 1.0.4 =
+* Readme.txt edited
+= 1.0.3 =
+* Readme.txt edited
+= 1.0.2 =
+* Readme.txt edited
 = 1.0.1 =
 * Readme.txt edited
 = 1.0 =
