@@ -26,10 +26,8 @@ All errors to be tracked via github please: https://github.com/vimes1984/video_s
 1. Place `<?php do_action("video-sitemap_hook"); ?>` in your templates
 
 == Screenshots ==
+
 1. Pick your post type:
-
-
-
 
 == Changelog ==
 
