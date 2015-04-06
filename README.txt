@@ -4,7 +4,7 @@ Donate link: http://buildawebdoctor.com
 Tags: Sitemap, video, youtube
 Requires at least: 3.5.1
 Tested up to: 4.1.1
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,7 +36,9 @@ None yet
 
 == Changelog ==
 
-= 1.0.5 =
+= 1.0.7 =
+* Banner updated
+= 1.0.6 =
 * Screenshots updated
 = 1.0.5 =
 * Readme.txt edited
