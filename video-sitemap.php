@@ -14,7 +14,7 @@
  * Plugin Name: Simple video sitemap generator
  * Plugin URI:  http://buildawebdoctor.com
  * Description: Create a xml video sitemap file
- * Version:     1.0.5
+ * Version:     1.0.6
  * Author:      Accure
  * Author URI:  http://www.accruemarketing.com/
  * Text Domain: video-sitemap-locale

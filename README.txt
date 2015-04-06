@@ -4,7 +4,7 @@ Donate link: http://buildawebdoctor.com
 Tags: Sitemap, video, youtube
 Requires at least: 3.5.1
 Tested up to: 4.1.1
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,19 +22,22 @@ None yet
 
 == Installation ==
 
-1. Upload `` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the "Plugins" menu in WordPress
+1. Upload `Youtube Video Sitemap generator` to the `/wp-content/plugins/` directory or install via the plugin repository.
+2. Activate the plugin through the "Plugins" menu in WordPress.
 
 
 == Screenshots ==
 
-1. Pick your post type from the backend administrator interface:
+1. Pick your post type from the back end administrator interface.
+2. Then either view your newly created file or manually edit where needed.
 
 == Upgrade Notice ==
 None yet
 
 == Changelog ==
 
+= 1.0.5 =
+* Screenshots updated
 = 1.0.5 =
 * Readme.txt edited
 = 1.0.4 =
