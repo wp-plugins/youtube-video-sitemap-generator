@@ -8,7 +8,7 @@ Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Scan your site for youtube links in both post content and meta tags and create a xml video sitemap file on the fly. You can scan any of your own custom post types and/or wordpress's own pages and posts.
+Scan your site for youtube links in both post content and meta tags and create a xml video sitemap file on the fly.
 
 == Description ==
 
