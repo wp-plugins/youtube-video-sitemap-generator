@@ -29,6 +29,7 @@ None yet
 == Screenshots ==
 
 1. Pick your post type from the back end administrator interface.
+2. Then either view your newly created file or manually edit where needed.
 
 == Upgrade Notice ==
 None yet
