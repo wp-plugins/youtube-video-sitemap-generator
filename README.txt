@@ -9,9 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Scan your site for youtube links in both post content and meta tags and create a xml video
-sitemap file on the fly.
-
-You can scan custom post types along with pages and posts.
+sitemap file on the fly. You can scan custom post types along with pages and posts.
 
 == Description ==
 
