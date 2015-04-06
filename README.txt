@@ -4,7 +4,7 @@ Donate link: http://buildawebdoctor.com
 Tags: Sitemap, video, youtube
 Requires at least: 3.5.1
 Tested up to: 4.1.1
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,6 +16,10 @@ This is a little plugin to automatically scan a sites post content and metavalue
 
 All errors to be tracked via github please: https://github.com/vimes1984/video_sitemap
 
+== Frequently Asked Questions ==
+
+None yet
+
 == Installation ==
 
 1. Upload `` to the `/wp-content/plugins/` directory
@@ -25,6 +29,9 @@ All errors to be tracked via github please: https://github.com/vimes1984/video_s
 == Screenshots ==
 
 1. Pick your post type from the backend administrator interface:
+
+== Upgrade Notice ==
+None yet
 
 == Changelog ==
 
