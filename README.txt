@@ -4,7 +4,7 @@ Donate link: http://buildawebdoctor.com
 Tags: google sitemaps, seo, sitemaps, video seo for wordpress, video sitemap, videos, wordpress video seo, wordpress video sitemap, xml sitemaps, youtube, youtube video sitemap for wordpress
 Requires at least: 3.5.1
 Tested up to: 4.1.1
-Stable tag: 1.0.8
+Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,7 +41,8 @@ None yet
 None yet
 
 == Changelog ==
-
+= 1.0.8 =
+* Implemented get_home_path(); to fix this issue: https://wordpress.org/support/view/plugin-reviews/youtube-video-sitemap-generator
 = 1.0.8 =
 * Banner updated
 = 1.0.7 =
