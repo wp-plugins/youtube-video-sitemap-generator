@@ -12,9 +12,15 @@ Scan your site for youtube links in both post content and meta tags and create a
 
 == Description ==
 
-This is a little plugin to automatically scan a sites post content and metavalues for youtube liniks and automatically generate a video_sitemap.xml.
+
+If you have any feature requests I'd be more than happy to implement them just open up a thread on github please:
+
+  https://github.com/vimes1984/video_sitemap/issues
 
 All errors to be tracked via github please: https://github.com/vimes1984/video_sitemap
+
+This is a little plugin to automatically scan a sites post content and metavalues for youtube liniks and automatically generate a video_sitemap.xml.
+
 
 == Frequently Asked Questions ==
 
