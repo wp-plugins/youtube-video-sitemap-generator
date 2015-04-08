@@ -296,7 +296,7 @@ class VideoSitemap{
 				$xml .= "\n</urlset>";
 		}
 		$path = get_home_path();
-		$video_sitemap_url = $path . '/sitemap-video.xml';
+		$video_sitemap_url = $path . 'sitemap-video.xml';
 		if ($this->IsVideoSitemapWritable($path) || $this->IsVideoSitemapWritable($video_sitemap_url)) {
 				if (file_put_contents ($video_sitemap_url, $xml)) {
 							$class = "updated";
