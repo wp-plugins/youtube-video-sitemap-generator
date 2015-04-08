@@ -1,7 +1,7 @@
 === Youtube Video Sitemap generator ===
 Contributors: vimes1984
 Donate link: http://buildawebdoctor.com
-Tags: Sitemap, video, youtube
+Tags: google sitemaps, seo, sitemaps, video seo for wordpress, video sitemap, videos, wordpress video seo, wordpress video sitemap, xml sitemaps, youtube, youtube video sitemap for wordpress
 Requires at least: 3.5.1
 Tested up to: 4.1.1
 Stable tag: 1.0.8
