@@ -331,8 +331,8 @@ class VideoSitemap{
 		public function recursive_array_search($needle,$haystack) {
 	    foreach($haystack as $key=>$value) {
 	        $current_key = $value;
-					$searchvalue = strstr($value, $needle);
-	        if(strstr($value, $needle) OR (is_array($value) && $this->recursive_array_search($needle,$value) !== false)) {
+					$searchvalue = @strstr($value, $needle);
+	        if(@strstr($value, $needle) OR (is_array($value) && $this->recursive_array_search($needle,$value) !== false)) {
 	            return $current_key;
 	        }
 	    }
